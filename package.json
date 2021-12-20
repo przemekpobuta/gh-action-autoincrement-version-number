@@ -1,6 +1,6 @@
 {
   "name": "gh-action-autoincrement-version-number",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Test repo to create GitHub Action that auto increment version in package.json on every PR completed.",
   "main": "index.js",
   "scripts": {
